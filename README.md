@@ -18,3 +18,5 @@
 ## Minha Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JarlysonHG&repo=dio-lab-open-source&theme=ambient_gradient&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/JarlysonHG/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JarlysonHG&repo=Formul-rio-de-Envio-de-dados-para-gmail&theme=ambient_gradient&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/JarlysonHG/Formul-rio-de-Envio-de-dados-para-gmail)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JarlysonHG&repo=RAD-Cadastro-de-alunos-e-Calculo-de-Aprova-o-por-Notas&theme=ambient_gradient&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/JarlysonHG/RAD-Cadastro-de-alunos-e-Calculo-de-Aprova-o-por-Notas)
+

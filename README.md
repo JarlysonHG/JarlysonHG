@@ -13,7 +13,8 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JarlysonHG&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JarlysonHG&theme=ambient_gradient&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarlysonHG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Minha Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JarlysonHG&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JarlysonHG/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JarlysonHG&repo=Formul-rio-de-Envio-de-dados-para-gmail&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JarlysonHG/Formul-rio-de-Envio-de-dados-para-gmail)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JarlysonHG&repo=dio-lab-open-source&theme=ambient_gradient&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/JarlysonHG/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JarlysonHG&repo=Formul-rio-de-Envio-de-dados-para-gmail&theme=ambient_gradient&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/JarlysonHG/Formul-rio-de-Envio-de-dados-para-gmail)
